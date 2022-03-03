@@ -20,7 +20,5 @@ github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(cirosantil
 github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(cheezcharmer))
 github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(zaohmeing))
 github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(zhaohmng-outlook-com))
-notepad-plus-plus.org##^url:has-text(boycott-beijing-2022)
-notepad-plus-plus.org##^url:has-text(declare-variables-not-war)
 ||notepad-plus-plus.org/news/v83-boycott-beijing-2022/^$document
 ||notepad-plus-plus.org/news/v832-declare-variables-not-war/^$document
