@@ -1,0 +1,4 @@
+reactnative.dev##[class^='announcementBarContent']:-abp-contains(Ukraine)
+reactjs.org##div:has(> div > div > span:-abp-contains(Ukraine))
+nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
+github.com##.js-notice:-abp-contains(Ukraine)
