@@ -1,5 +1,6 @@
 ! Title: Politics Filters
 ! Description: Filter out politics contents in open source world
+! Expires: 4 days
 ! Homepage: https://github.com/AllanChain/politics-filter
 ! Licence: https://github.com/AllanChain/politics-filter/blob/main/LICENSE
 !
@@ -9,3 +10,7 @@ reactnative.dev##[class^='announcementBarContent']:-abp-contains(Ukraine)
 reactjs.org##div:has(> div > div > span:-abp-contains(Ukraine))
 nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
 github.com##.js-notice:-abp-contains(Ukraine)
+emberjs.com##.invasion-of-ukraine-banner.survey-reminder-wrapper
+jestjs.io##div[class^=announcementBarContent]:-abp-contains(Ukraine)
+create-react-app.dev##div[class^=announcementBarContent]:-abp-contains(Ukraine)
+docusaurus.io##main > div:-abp-contains(Ukraine)
