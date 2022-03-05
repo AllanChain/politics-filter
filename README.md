@@ -7,6 +7,21 @@
 
 See [`list.txt`](list.txt) for the full list of sites included.
 
+## What is considered political content?
+
+Some may argue that open source itself is strongly tied to politics.
+That's true, but it does not mean that it's correct to post arbitrary political content.
+
+So we filter political contents which ...
+
+- ... is posted in open source world.
+
+    e.g. at GitHub, on official websites
+
+- ... is not directly related to open source or people involved in open source
+
+    Some may argue that a few core team members are blah blah blah.
+    But the "announcement" should make it clear that they are just helping those developers, not taking any stand.
 
 ## Usage
 
