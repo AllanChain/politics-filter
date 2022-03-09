@@ -6,18 +6,24 @@
 !
 ! GitHub issues: https://github.com/AllanChain/politics-filter/issues
 ! GitHub pull requests: https://github.com/AllanChain/politics-filter/pulls
-reactnative.dev##[class^='announcementBarContent']:-abp-contains(Ukraine)
-reactjs.org##div:has(> div > div > span:-abp-contains(Ukraine))
-nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
-github.com##.js-notice:-abp-contains(Ukraine)
-emberjs.com##.invasion-of-ukraine-banner.survey-reminder-wrapper
-emberjs.com##div.survey-reminder-wrapper:-abp-contains(Black)
-jestjs.io##div[class^=announcementBarContent]:-abp-contains(Ukraine)
+
+! Facebook's Section
 create-react-app.dev##div[class^=announcementBarContent]:-abp-contains(Ukraine)
 docusaurus.io##main > div:-abp-contains(Ukraine)
+jestjs.io##div[class^=announcementBarContent]:-abp-contains(Ukraine)
+pytorch.org##.ecosystem-card.card:-abp-contains(Ukraine)
+reactjs.org##div:has(> div > div > span:-abp-contains(Ukraine))
+reactnative.dev##[class^='announcementBarContent']:-abp-contains(Ukraine)
+! Others
+emberjs.com##.invasion-of-ukraine-banner.survey-reminder-wrapper
+emberjs.com##div.survey-reminder-wrapper:-abp-contains(Black)
+flowbite.com###ukraine
+nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
+||notepad-plus-plus.org/news/v83-boycott-beijing-2022/^$document
+||notepad-plus-plus.org/news/v832-declare-variables-not-war/^$document
 www.electronjs.org##.announcement-banner:-abp-contains(Black)
+! GitHub and GitHub repos
+github.com##.js-notice:-abp-contains(Ukraine)
 github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(china-dictatorship))
 github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(zaohmeing))
 github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(zhaohmng-outlook-com))
-||notepad-plus-plus.org/news/v83-boycott-beijing-2022/^$document
-||notepad-plus-plus.org/news/v832-declare-variables-not-war/^$document
