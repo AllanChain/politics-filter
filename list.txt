@@ -21,6 +21,7 @@ flowbite.com###ukraine
 nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
 ||notepad-plus-plus.org/news/v83-boycott-beijing-2022/^$document
 ||notepad-plus-plus.org/news/v832-declare-variables-not-war/^$document
+reactnavigation.org##.announcementBar_3WsW:-abp-contains(Ukraine)
 www.electronjs.org##.announcement-banner:-abp-contains(Black)
 ! GitHub and GitHub repos
 github.com##.js-notice:-abp-contains(Ukraine)
