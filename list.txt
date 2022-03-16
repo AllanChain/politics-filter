@@ -10,10 +10,19 @@
 ! Facebook's Section
 create-react-app.dev##div[class^=announcementBarContent]:-abp-contains(Ukraine)
 docusaurus.io##main > div:-abp-contains(Ukraine)
+draftjs.org##.announcementBar_HGgX:-abp-contains(Ukraine)
+facebook.github.io##.socialBanner:-abp-contains(Ukraine)
+fbflipper.com##.announcementBar_3WsW:-abp-contains(Ukraine)
+fbinfer.com##.announcementBar_axC9:-abp-contains(Ukraine)
+flow.org##div:has(> div:-abp-contains(Ukraine))
+frescolib.org##.socialBanner:-abp-contains(Ukraine)
+hhvm.com##.socialBanner:-abp-contains(Ukraine)
 jestjs.io##div[class^=announcementBarContent]:-abp-contains(Ukraine)
 pytorch.org##.ecosystem-card.card:-abp-contains(Ukraine)
 reactjs.org##div:has(> div > div > span:-abp-contains(Ukraine))
 reactnative.dev##[class^='announcementBarContent']:-abp-contains(Ukraine)
+relay.dev##.homeBanner:-abp-contains(Ukraine)
+rocksdb.org##.socialBanner:-abp-contains(Ukraine)
 ! Others
 emberjs.com##.invasion-of-ukraine-banner.survey-reminder-wrapper
 emberjs.com##div.survey-reminder-wrapper:-abp-contains(Black)
