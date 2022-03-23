@@ -31,10 +31,14 @@ rocksdb.org##.socialBanner:-abp-contains(Ukraine)
 emberjs.com##.invasion-of-ukraine-banner.survey-reminder-wrapper
 emberjs.com##div.survey-reminder-wrapper:-abp-contains(Black)
 flowbite.com###ukraine
+kit.svelte.dev##[href="https://www.stopputin.net/"]
+||kit.svelte.dev/stopwar.svg$image
 nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
 ||notepad-plus-plus.org/news/v83-boycott-beijing-2022/^$document
 ||notepad-plus-plus.org/news/v832-declare-variables-not-war/^$document
 reactnavigation.org##.announcementBar_3WsW:-abp-contains(Ukraine)
+svelte.dev##[href="https://www.stopputin.net/"]
+||svelte.dev/stopwar.svg$image
 www.electronjs.org##.announcement-banner:-abp-contains(Black)
 ! GitHub and GitHub repos
 github.com##.js-notice:-abp-contains(Ukraine)
