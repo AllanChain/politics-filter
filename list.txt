@@ -10,7 +10,7 @@
 ! Facebook's Section
 create-react-app.dev##div[class^=announcementBarContent]:-abp-contains(Ukraine)
 docusaurus.io##main > div:-abp-contains(Ukraine)
-draftjs.org##div[class^=announcementBar]-abp-contains(Ukraine)
+draftjs.org##div[class^=announcementBar]:-abp-contains(Ukraine)
 facebook.github.io##.socialBanner:-abp-contains(Ukraine)
 fbflipper.com##div[class^=announcementBar]:-abp-contains(Ukraine)
 fbinfer.com##div[class^=announcementBar]:-abp-contains(Ukraine)
