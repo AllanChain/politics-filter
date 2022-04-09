@@ -36,6 +36,7 @@ kit.svelte.dev##[href="https://www.stopputin.net/"]
 nodejs.org##.home-version-banner.home-version:-abp-contains(Ukraine)
 ||notepad-plus-plus.org/news/v83-boycott-beijing-2022/^$document
 ||notepad-plus-plus.org/news/v832-declare-variables-not-war/^$document
+preactjs.com##[class^='banner_']:-abp-contains(Ukraine)
 reactnavigation.org##.announcementBar_3WsW:-abp-contains(Ukraine)
 svelte.dev##[href="https://www.stopputin.net/"]
 ||svelte.dev/stopwar.svg$image
